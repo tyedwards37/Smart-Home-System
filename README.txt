@@ -7,7 +7,7 @@ Added October 2023
 Description: The home system circuit detects the distance from an object and adjusts the color of an RGB LED light accordingly. As the object moves closer or farther away, the color of the LED will adjust. When the object reaches a given distance threshold, the circuit will produce a noise to alert the user. This value will be fixed while the circuit is in use but can be adjusted by the user through a small adjustment to the code. 
 
 Hardware / Software Used:
-- Arudino
+- Arudino IDE (C++)
 - Cirkit Designer 
 - Breadboard Kit
 
